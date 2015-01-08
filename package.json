@@ -1,0 +1,28 @@
+{
+  "name": "naija-statecapital",
+  "version": "0.0.1",
+  "description": "A simple utility library that lists and manipulate states and capitals in Nigeria",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/busayo/naija-statecapital.git"
+  },
+  "keywords": [
+    "Nigeria",
+    "State",
+    "Capital",
+    "Nodejs"
+  ],
+  "engines" : {
+    "node" : ">=0.8.0"
+  },
+  "author": "Otemuyiwa Prosper",
+  "license": "Mit",
+  "bugs": {
+    "url": "https://github.com/busayo/naija-statecapital/issues"
+  },
+  "homepage": "https://github.com/busayo/naija-statecapital"
+}
