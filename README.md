@@ -17,7 +17,7 @@ var StatesAndCapital = require('naija-statecapital');
 
 console.log( "Returns a list of States", StatesAndCapital.list() );
 
-console.log("Returns Anambra state Capital" , StatesAndCapital.list().Abia );
+console.log("Returns Abia state Capital" , StatesAndCapital.list().Abia );
 
 ```
 
