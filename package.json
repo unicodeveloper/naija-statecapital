@@ -16,13 +16,16 @@
     "Capital",
     "Nodejs"
   ],
-  "engines" : {
-    "node" : ">=0.8.0"
+  "engines": {
+    "node": ">=0.8.0"
   },
   "author": "Otemuyiwa Prosper",
   "license": "Mit",
   "bugs": {
     "url": "https://github.com/busayo/naija-statecapital/issues"
   },
-  "homepage": "https://github.com/busayo/naija-statecapital"
+  "homepage": "https://github.com/busayo/naija-statecapital",
+  "devDependencies": {
+    "jasmine-expect": "^1.22.3"
+  }
 }
