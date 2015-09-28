@@ -1,7 +1,7 @@
 {
   "name": "naija-statecapital",
   "version": "0.0.2",
-  "description": "A simple utility library that lists and manipulate states and capitals in Nigeria",
+  "description": "A simple utility library that lists and manipulate states,capitals and cities in Nigeria",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
