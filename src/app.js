@@ -1,6 +1,4 @@
 var StatesAndCapital = {
-
-
     'list' : function(){
 
     	return {
