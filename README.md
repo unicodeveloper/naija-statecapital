@@ -2,7 +2,7 @@
 
 A simple utility library that lists and allows for manipulation of states and capitals in Nigeria
 
-**Installation**
+### Installation
 
 ``` Javascript
 
@@ -10,7 +10,7 @@ npm install naija-statecapital
 
 ```
 
-**Example**
+### Example
 
 ``` Javascript
 
@@ -23,21 +23,21 @@ console.log("Returns Abia state Capital" , statesAndCapital.all.Abia );
 ```
 
 
-**Features**
+### Features
 
 List all states and capital in Nigeria
 
-**Tests**
+### Tests
 
-### Install Jasmine globally
+**Install Jasmine globally**
 ```Javascript
 npm install jasmine -g
 ```
-### Install jasmine-expect
+**Install jasmine-expect**
 ```Javascript
 npm install jasmine-expect
 ```
-### Run the tests
+**Run the tests**
 ```bash
 jasmine
 ```
