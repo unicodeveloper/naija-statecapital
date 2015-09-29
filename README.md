@@ -2,7 +2,7 @@
 
 A simple utility library that lists and allows for manipulation of states and capitals in Nigeria
 
-### Installation`
+### Installation
 
 ``` Javascript
 
