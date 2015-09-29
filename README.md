@@ -39,6 +39,6 @@ npm install jasmine-expect
 ```
 **Run the tests**
 ```bash
-jasmine
+npm test
 ```
 
