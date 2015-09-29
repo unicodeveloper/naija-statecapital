@@ -4,7 +4,8 @@
   "description": "A simple utility library that lists and manipulate states,capitals and cities in Nigeria",
   "main": "app.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/jasmine/bin/jasmine.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,9 @@
   },
   "homepage": "https://github.com/busayo/naija-statecapital",
   "devDependencies": {
+    "coveralls": "^2.11.4",
+    "istanbul": "^0.3.21",
+    "jasmine": "^2.3.2",
     "jasmine-expect": "^1.22.3"
   }
 }
