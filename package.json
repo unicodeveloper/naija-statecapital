@@ -1,6 +1,6 @@
 {
   "name": "naija-statecapital",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple utility library that lists and manipulate states,capitals and cities in Nigeria",
   "main": "app.js",
   "scripts": {
