@@ -1,3 +1,7 @@
+
+[![Build Status](https://travis-ci.org/busayo/naija-statecapital.svg?branch=master)](https://travis-ci.org/busayo/naija-statecapital)
+[![Coverage Status](https://coveralls.io/repos/busayo/naija-statecapital/badge.svg?branch=master&service=github)](https://coveralls.io/github/busayo/naija-statecapital?branch=master)
+
 # naija-statecapital
 
 A simple utility library that lists and allows for manipulation of states and capitals in Nigeria
