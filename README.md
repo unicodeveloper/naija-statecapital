@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/busayo/naija-statecapital.svg?branch=master)](https://travis-ci.org/busayo/naija-statecapital)
 [![Coverage Status](https://coveralls.io/repos/busayo/naija-statecapital/badge.svg?branch=master&service=github)](https://coveralls.io/github/busayo/naija-statecapital?branch=master)
 ![](http://img.shields.io/badge/unicorn-approved-ff69b4.svg?style=flat)
+![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 
 # naija-statecapital
